@@ -5,3 +5,4 @@ to have the vehicls spawn inside the showroom. The ymap as a garage at the back 
 a canteen with a view of the beach and see. 
 
 You can use the default cars in GTA 5 or PLOKMJNB/FiveM-Civ-Car-Pack: https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack
+![repository-open-graph-template](https://user-images.githubusercontent.com/76175523/167961542-dcfff8cf-0ecf-4b7b-a569-f2c06ce91f2d.png)
